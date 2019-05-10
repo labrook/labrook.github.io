@@ -14,6 +14,6 @@ _noun, plural,_ **the·ses** [**thee**-seez] /ˈθi siz/.
 
 ## Theses of Others
 1. 钱学森/Hsue-shen Tsien's [Ph.D. Thesis](./doc/theses/Tsien_hs_1938.pdf)
-2. John Nash's [Ph.D. Thesis](./doc/thesis/Non-Cooperative_Games_Nash.pdf)
-3. Stephen Hawking's [Ph.D. Thesis](./doc/thesis/PR-PHD-05437.pdf)
-4. John Little's [Proof of the Famous Little's Law](./doc/thesis/Littles-Law.pdf)
+2. John Nash's [Ph.D. Thesis](./doc/theses/Non-Cooperative_Games_Nash.pdf)
+3. Stephen Hawking's [Ph.D. Thesis](./doc/theses/PR-PHD-05437.pdf)
+4. John Little's [Proof of the Famous Little's Law](./doc/theses/Littles-Law.pdf)
