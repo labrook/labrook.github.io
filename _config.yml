@@ -23,6 +23,7 @@ description: A Data Scientist and Machine Leaning Practitioner
 
 # List of links in the navigation bar
 navbar-links:
+  About Me: "index"
   Resume: "resume"
   ## Blog: "blog"
   ## Resources:
