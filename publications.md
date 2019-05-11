@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Publications & Patents
 ---
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=1UlUOMMAAAAJ&hl=en).
