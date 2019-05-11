@@ -22,7 +22,7 @@ Before SAS, I interned at the [Market Risk Modeling Group](https://www.goldmansa
 
 I obtained my Ph.D. in Systems Engineering, and M.Sc. in Electrical Engineering at [Boston University](http://www.bu.edu/), advisored by [Prof. Yannis Paschalidis](http://sites.bu.edu/paschalidis/people/yannis-paschalidis/). I also hold a M.Sc. degree in Control Science and Engineering, and a B.Sc. degree in Automation from [Tsinghua University](https://www.tsinghua.edu.cn), Beijing, China, working with [Prof. Ling Wang](https://www.tsinghua.edu.cn/publish/auen/1713/2011/20110919083200742395822/20110919083200742395822_.html). I have broad research interests in the area of Optimization, Control, Operations Research, Evolutionary Computation, Machine Learning (include Deep Learning, Reinforcement Learning / Neuro-Dynamic Programming), and Artificial Intelligence. I have published four IEEE Transactions journal papers, four academic society flagship conference papers, one book chapter, and filed two patents in these areas.
 
-## Technical Competencies
+### Technical Competencies
 
 - **Programming Languages:**  Python, Scala, Perl, C, C++, Shell Script, SQL
 - **Statistical & Optimization Languages:** SAS, R, ILOG CPLEX, ATLAS/LINPACK
