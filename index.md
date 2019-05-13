@@ -4,7 +4,7 @@ title: About Me
 ## subtitle: To Be Filled
 ---
 
-My name is Binbin Li. I am currently the Head of Data Science at [true[X]](https://www.truex.com), one of [the world's most innovative companies](https://www.fastcompany.com/most-innovative-companies/2019/sectors/video). True[X] is a subsidiary of the formerly [21st Century Fox](https://www.thewaltdisneycompany.com/21cf/), now part of [The Walt Disney Company](https://www.thewaltdisneycompany.com/). I am privileged to work with a team of talented data scientists and software engineers to build:
+My name is Binbin Li. I am currently Head of Data Science at [true[X]](https://www.truex.com), a technology company building the next generation of advertising products and experiences for premium video. Recently ranked as one of [the world's most innovative companies](https://www.fastcompany.com/most-innovative-companies/2019/sectors/video), true[X] is a subsidiary of the formerly [21st Century Fox](https://www.thewaltdisneycompany.com/21cf/), now part of [The Walt Disney Company](https://www.thewaltdisneycompany.com/). I am privileged to work with a team of talented data scientists and software engineers to build:
 
 - **UP//LIFT Optimize**, an intelligent ad decisioning engine powered by machine learning models that assess how consumers are reacting to a brand in real time, match the right consumers to the right ads, and optimize performance of ad campaigns running on true[X]'s ad platform. [Independent stduy](./doc/press/Magna-IPG-Lab-TrueX-Humans-vs.-Machines-1.pdf) demonstrates that our machine learning models ["dramatically increase brand familiarity, brand interest, and purchase consideration"](https://magnaglobal.com/media_trials/the-humans-vs-the-machines/).
 
@@ -12,7 +12,7 @@ My name is Binbin Li. I am currently the Head of Data Science at [true[X]](https
 
 ### Previous Experience
 
-Before [true[X]](https://www.truex.com), I worked for [KPMG US](https://home.kpmg/us/en/home.html) as a Data Scientist Manager at [KPMG Lighthouse - Center of Excellency in Data & Analytics](https://advisory.kpmg.us/services/data-analytics.html), where I delivered novel machine learning and artificial intelligence models to help clients turn data into value. 
+Before [true[X]](https://www.truex.com), I worked for [KPMG US](https://home.kpmg/us/en/home.html) as a Data Scientist Manager at [KPMG Lighthouse - Center of Excellency in Data & Analytics](https://advisory.kpmg.us/services/data-analytics.html), where I delivered novel machine learning and artificial intelligence models to help clients turn data into value. Clients included [Freddie Mac](http://www.freddiemac.com) and [Johnson & Johnson](https://www.jnj.com). 
 
 Before [KPMG](https://home.kpmg/us/en/home.html), I worked at [SAS Instituite](https://www.sas.com) and led the core data science team of [SAS Fraud Management Solution](https://www.sas.com/en_us/software/fraud-management.html), the industry leading real-time fraud management system to combat credit/debit card and online banking fraud. We had built real time fraud detection models for major top-tier banks all over the world, and helped clients prevent fraud loss of hundreds of millions dollars. If you live in the US and have a credit/debit card, chances are the neural networks models we build are/were pretecting you and your wealth from fraud.
 
