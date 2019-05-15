@@ -13,7 +13,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2016
 
-Ankur Gupta, Brian Lee Duke, **Binbin Li**, and Prathaban Mookiah, "Systems and Methods for Travel-Related Anomaly Detection," Pub. No.: US 2016/0203490 A1, Pub. Date: Jul. 14, 2016. Assignee: SAS Institute Inc. [[Patent page&#8594;]](https://patents.google.com/patent/US20160203490A1/en)
+Ankur Gupta, Brian Lee Duke, **Binbin Li**, and Prathaban Mookiah, "Systems and Methods for Travel-Related Anomaly Detection," Pub. No.: US 2016/0203490 A1, Pub. Date: Jul. 14, 2016. Assignee: SAS Institute. [[Patent page&#8594;]](https://patents.google.com/patent/US20160203490A1/en)
 >**Abstract:**  
 >A fraud score for a transaction in connection with an account is computed from retrieved data to indicate a probability of the account being in a compromised condition. A travel score is computed, wherein the computed travel score indicates a likelihood that a user of the account is traveling from a user home location at the time of the received transaction. A self-similarity score may be computed if the computed fraud score is above a predetermined threshold to indicate similarity of the received transaction to other transactions of the account in the set of prior transactions. A suggested action is determined, based on a fraud decisioning operation (and optionally the self-similarity score) and a travel decisioning operation using the fraud score and travel score, respectively.
 
