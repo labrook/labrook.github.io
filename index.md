@@ -25,6 +25,6 @@ I obtained my Ph.D. in [Systems Engineering](http://www.bu.edu/systems/) (a mult
 ### Technical Competencies
 
 - **Programming Languages:**  Python, Scala, Perl, C, C++, Shell Script, SQL
-- **Statistical & Optimization Languages:** SAS, R, ILOG CPLEX, ATLAS/LINPACK
+- **Statistical & Optimization Languages:** SAS, R, ILOG CPLEX, MATLAB, ATLAS/LINPACK
 - **Cloud Platform & Big Data:** AWS, GCP, Databricks, Apache Open Source Software (Spark, Hadoop, Hive, Flink etc.)
 - **Machine Learning:** Statistical Learning, Deep Learning, Reinforcement Learning / Neuro-Dynamic Programming, PyTorch, TensorFlow, XGBoost, LightGBM, scikit-learn, Spark MLlib etc.
