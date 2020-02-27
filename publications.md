@@ -7,9 +7,13 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 # Patents
 
-## 2018
+## 2020
 
-"[Confidential]," Provisional Application Receipt Date: Nov. 2, 2018. Assignee: true[X].
+**Binbin Li**, Maxim Budninskiy, Joshua Rangsikitpho, Jamie Auslander, Kenneth Hwang, Amanda Conrad, and Simon Asselin, "Synchronizing Survey Collection with Ad Distribution During An Ad Campaign," In preparation, Assignee: Disney Enterprises, Inc..
+
+## 2019
+
+**Binbin Li**, Amanda Conrad, Simon Asselin, Jamie Auslander, Joshua Rangsikitpho, Zhenyu Shi, and Alexander Vondrak, "Automated Advertisement Selection Using a Trained Predictive Model," Application No.: 16/669,397, Filing Date: Oct. 30, 2019. Assignee: Disney Enterprises, Inc..
 
 ## 2016
 
