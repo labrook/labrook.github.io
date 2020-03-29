@@ -9,7 +9,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2020
 
-**Binbin Li**, Maxim Budninskiy, Joshua Rangsikitpho, Jamie Auslander, Kenneth Hwang, Amanda Conrad, and Simon Asselin, "Synchronizing Survey Collection with Ad Distribution During An Ad Campaign," In preparation, Assignee: Disney Enterprises, Inc..
+**Binbin Li**, Maxim Budninskiy, Joshua Rangsikitpho, Jamie Auslander, Kenneth Hwang, Amanda Conrad, and Simon Asselin, "Synchronizing Survey Collection with Ad Distribution During An Ad Campaign," Application No.: 16/821,815, Filing Date: Mar. 17, 2020. Assignee: Disney Enterprises, Inc..
 
 ## 2019
 
