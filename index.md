@@ -6,7 +6,7 @@ title: About Me
 
 My name is Binbin Li. I am currently a Data Science Manager at [Facebook](https://www.facebook.com), also known as [Meta](https://www.meta.com). I am with the Facebook Ads Backend & Systems Analytics team in the Ads & Business Products org. I lead / have led mutliple data science teams, including 
 
-- Ads Personalization DS team in Ads Core ML: feature & data for ~300 ads ranking models across Meta ecosystem ads surfaces (Faceboo blue app, news feed, Instagram etc.)
+- Ads Personalization DS team in Ads Core ML: feature & data for ~300 ads ranking models across Meta ecosystem ads surfaces (Facebook blue app, news feed, Instagram etc.)
 - Ads ML Infrafoudation DS team: feature (GSF/GFF/F3) and model traing platforms (DPer3/Pytorch)
 - Ads ML Automation DS team: MasterCook/LineCook model development processess and AutoML/Blueprint platforms
 - Ads ML Privacy Experimentaton: A/B test also internally known as QRT under multiple signal loss scenarios such as App Tracking Transparency (ATT), Online Behavioral Advertising (OBA), ePrivacy Directive (ePD) etc.
