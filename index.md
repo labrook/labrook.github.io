@@ -4,13 +4,20 @@ title: About Me
 ## subtitle: To Be Filled
 ---
 
-My name is Binbin Li. I am currently Head of Data Science at [true[X]](https://www.truex.com), a technology company building the next generation of advertising products and experiences for premium video. Recently ranked as one of [the world's most innovative companies](https://www.fastcompany.com/most-innovative-companies/2019/sectors/video), true[X] is a subsidiary of the formerly [21st Century Fox](https://www.thewaltdisneycompany.com/21cf/), now part of [The Walt Disney Company](https://www.thewaltdisneycompany.com/). I am privileged to work with a team of talented data scientists and software engineers to build:
+My name is Binbin Li. I am currently a Data Science Manager at [Facebook](https://www.facebook.com), also known as [Meta](https://www.meta.com). I am with the Facebook Ads Backend & Systems Analytics team in the Ads & Business Products org. I lead / have led mutliple data science teams, including 
+
+- Ads Personalization DS team in Ads Core ML: feature & data for ~300 ads ranking models across Meta ecosystem ads surfaces (Faceboo blue app, news feed, Instagram etc.)
+- Ads ML Infrafoudation DS team: feature (GSF/GFF/F3) and model traing platforms (DPer3/Pytorch)
+- Ads ML Automation DS team: MasterCook/LineCook model development processess and AutoML/Blueprint platforms
+- Ads ML Privacy Experimentaton: A/B test also internally known as QRT under multiple signal loss scenarios such as App Tracking Transparency (ATT), Online Behavioral Advertising (OBA), ePrivacy Directive (ePD) etc.
+
+### Previous Experience
+
+Before [Facebook](https://www.meta.com), I was Head of Data Science at [true[X]](https://www.truex.com), a technology company building the next generation of advertising products and experiences for premium video. Ranked as one of [the world's most innovative companies](https://www.fastcompany.com/most-innovative-companies/2019/sectors/video), true[X] was a subsidiary of the formerly [21st Century Fox](https://www.thewaltdisneycompany.com/21cf/), and later part of [The Walt Disney Company](https://www.thewaltdisneycompany.com/). During my time with true[X] / Disney, I led a team of very talented data scientists, machine learning engineers and software engineers to build:
 
 - **[UP//LIFT](https://www.truex.com/publishers.html#Uplift) Optimize**, an intelligent ad decisioning engine powered by machine learning models that assess how consumers are reacting to a brand in real time, match the right consumers to the right ads, and optimize performance of ad campaigns running on true[X]'s ad platform. [Independent study](./doc/press/Magna-IPG-Lab-TrueX-Humans-vs.-Machines-1.pdf) demonstrates that our machine learning models ["dramatically increase brand familiarity, brand interest, and purchase consideration"](https://magnaglobal.com/media_trials/the-humans-vs-the-machines/).
 
 - **[UP//LIFT](https://www.truex.com/publishers.html#Uplift) Monitor**, an industry-leading online survey sampling and collection system that correctly and precisely measures performance of ad campaigns on and off true[X]'s ad networks. 
-
-### Previous Experience
 
 Before [true[X]](https://www.truex.com), I worked for [KPMG US](https://home.kpmg/us/en/home.html) as a Data Scientist Manager at [KPMG Lighthouse - Center of Excellency in Data & Analytics](https://advisory.kpmg.us/services/data-analytics.html), where I delivered novel machine learning and artificial intelligence models to help clients turn data into value. Clients included [Freddie Mac](http://www.freddiemac.com) and [Johnson & Johnson](https://www.jnj.com). 
 
