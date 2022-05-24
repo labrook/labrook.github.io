@@ -9,11 +9,15 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2020
 
-**Binbin Li**, Maxim Budninskiy, Joshua Rangsikitpho, Jamie Auslander, Kenneth Hwang, Amanda Conrad, and Simon Asselin, "Synchronizing Survey Collection with Ad Distribution During An Ad Campaign," Application No.: 16/821,815, Filing Date: Mar. 17, 2020. Assignee: Disney Enterprises, Inc..
+**Binbin Li**, Maxim Budninskiy, Joshua Rangsikitpho, Jamie Auslander, Kenneth Hwang, Amanda Conrad, and Simon Asselin, "Synchronizing Survey Collection with Ad Distribution During An Ad Campaign," Application No.: 16/821,815, Filing Date: Mar. 17, 2020. Assignee: Disney Enterprises, Inc.. [[Patent page&#8594;]](https://patentscope.wipo.int/search/en/detail.jsf?docId=US336570300)
+>**Abstract:**  
+>A system includes a hardware processor and a memory storing software code for controlling distribution of ad surveys to target audiences. For each target audience, the hardware processor executes the software code to receive ad data describing an ad volume distributed to the target audience during a predetermined time interval of an ad campaign, and to receive survey data describing a survey volume distributed to the target audience and a survey response volume collected from the target audience during the predetermined time interval. The software code also determines a next survey sampling rate for the target audience based on the ad data and the survey data, such that the volume of survey responses collected from the target audience during matches an ad distribution volume for the target audience within a predetermined threshold during each predetermined time interval of the ad campaign.
 
 ## 2019
 
-**Binbin Li**, Amanda Conrad, Simon Asselin, Jamie Auslander, Joshua Rangsikitpho, Zhenyu Shi, and Alexander Vondrak, "Automated Advertisement Selection Using a Trained Predictive Model," Application No.: 16/669,397, Filing Date: Oct. 30, 2019. Assignee: Disney Enterprises, Inc..
+**Binbin Li**, Amanda Conrad, Simon Asselin, Jamie Auslander, Joshua Rangsikitpho, Zhenyu Shi, and Alexander Vondrak, "Automated Advertisement Selection Using a Trained Predictive Model," Application No.: 16/669,397, Filing Date: Oct. 30, 2019. Assignee: Disney Enterprises, Inc.. [[Patent page&#8594;]](https://patentscope.wipo.int/search/en/detail.jsf?docId=US294409549)
+>**Abstract:**  
+>An automated advertisement selection system includes a computing platform having a hardware processor and a system memory storing a software code including a trained predictive model and a scoring module. The hardware processor executes the software code to receive an advertising query, the advertising query including a multiple parameters describing a target consumer group, and to identify, using the trained predictive model, candidate advertisements for the target consumer group based on the multiple parameters. The hardware processor also executes the software code to determine, using the scoring module, desirability scores for each one of the plurality of candidate advertisements, each of the desirability scores corresponding to a likelihood of each respective one of the plurality of candidate advertisements enticing the target consumer group, and to select one of the plurality of candidate advertisements based on the desirability scores for distribution to the target consumer group.
 
 ## 2016
 
